@@ -81,8 +81,3 @@ nav {
 nav a:hover{
     color:coral;
 }
-@media (max-width:100px){
-    .header{
-        flex-direction: column;
-    }
-}
